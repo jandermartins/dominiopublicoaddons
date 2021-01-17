@@ -1,0 +1,11 @@
+{
+	"name": "stremio-addon-Dominio",
+	"version": "0.0.1",
+	"description": "Obras de dominio publico brasileira presentes no site www.dominiopublico.gov.br",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"stremio-addon-sdk": "1.1.x"
+	}
+}
